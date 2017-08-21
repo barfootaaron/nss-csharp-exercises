@@ -1,0 +1,8 @@
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/lists/bin/Debug/netcoreapp1.1/lists.deps.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/lists/bin/Debug/netcoreapp1.1/lists.runtimeconfig.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/lists/bin/Debug/netcoreapp1.1/lists.runtimeconfig.dev.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/lists/bin/Debug/netcoreapp1.1/lists.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/lists/bin/Debug/netcoreapp1.1/lists.pdb
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/lists/obj/Debug/netcoreapp1.1/lists.AssemblyInfo.cs
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/lists/obj/Debug/netcoreapp1.1/lists.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/lists/obj/Debug/netcoreapp1.1/lists.pdb

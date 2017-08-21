@@ -1,0 +1,8 @@
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/hashsets/bin/Debug/netcoreapp1.1/hashsets.deps.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/hashsets/bin/Debug/netcoreapp1.1/hashsets.runtimeconfig.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/hashsets/bin/Debug/netcoreapp1.1/hashsets.runtimeconfig.dev.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/hashsets/bin/Debug/netcoreapp1.1/hashsets.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/hashsets/bin/Debug/netcoreapp1.1/hashsets.pdb
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/hashsets/obj/Debug/netcoreapp1.1/hashsets.AssemblyInfo.cs
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/hashsets/obj/Debug/netcoreapp1.1/hashsets.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/hashsets/obj/Debug/netcoreapp1.1/hashsets.pdb
