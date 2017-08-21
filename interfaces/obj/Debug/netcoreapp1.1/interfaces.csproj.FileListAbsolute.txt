@@ -1,0 +1,8 @@
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/interfaces/bin/Debug/netcoreapp1.1/interfaces.deps.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/interfaces/bin/Debug/netcoreapp1.1/interfaces.runtimeconfig.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/interfaces/bin/Debug/netcoreapp1.1/interfaces.runtimeconfig.dev.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/interfaces/bin/Debug/netcoreapp1.1/interfaces.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/interfaces/bin/Debug/netcoreapp1.1/interfaces.pdb
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/interfaces/obj/Debug/netcoreapp1.1/interfaces.AssemblyInfo.cs
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/interfaces/obj/Debug/netcoreapp1.1/interfaces.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/interfaces/obj/Debug/netcoreapp1.1/interfaces.pdb
