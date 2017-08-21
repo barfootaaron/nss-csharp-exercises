@@ -1,0 +1,8 @@
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/linq/bin/Debug/netcoreapp1.1/linq.deps.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/linq/bin/Debug/netcoreapp1.1/linq.runtimeconfig.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/linq/bin/Debug/netcoreapp1.1/linq.runtimeconfig.dev.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/linq/bin/Debug/netcoreapp1.1/linq.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/linq/bin/Debug/netcoreapp1.1/linq.pdb
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/linq/obj/Debug/netcoreapp1.1/linq.AssemblyInfo.cs
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/linq/obj/Debug/netcoreapp1.1/linq.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/linq/obj/Debug/netcoreapp1.1/linq.pdb

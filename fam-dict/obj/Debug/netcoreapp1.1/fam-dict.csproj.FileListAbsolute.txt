@@ -1,0 +1,8 @@
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/fam-dict/bin/Debug/netcoreapp1.1/fam-dict.deps.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/fam-dict/bin/Debug/netcoreapp1.1/fam-dict.runtimeconfig.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/fam-dict/bin/Debug/netcoreapp1.1/fam-dict.runtimeconfig.dev.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/fam-dict/bin/Debug/netcoreapp1.1/fam-dict.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/fam-dict/bin/Debug/netcoreapp1.1/fam-dict.pdb
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/fam-dict/obj/Debug/netcoreapp1.1/fam-dict.AssemblyInfo.cs
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/fam-dict/obj/Debug/netcoreapp1.1/fam-dict.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/fam-dict/obj/Debug/netcoreapp1.1/fam-dict.pdb
