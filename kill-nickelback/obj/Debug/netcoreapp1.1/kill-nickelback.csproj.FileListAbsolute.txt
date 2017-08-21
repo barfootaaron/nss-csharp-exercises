@@ -1,0 +1,8 @@
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/kill-nickelback/bin/Debug/netcoreapp1.1/kill-nickelback.deps.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/kill-nickelback/bin/Debug/netcoreapp1.1/kill-nickelback.runtimeconfig.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/kill-nickelback/bin/Debug/netcoreapp1.1/kill-nickelback.runtimeconfig.dev.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/kill-nickelback/bin/Debug/netcoreapp1.1/kill-nickelback.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/kill-nickelback/bin/Debug/netcoreapp1.1/kill-nickelback.pdb
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/kill-nickelback/obj/Debug/netcoreapp1.1/kill-nickelback.AssemblyInfo.cs
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/kill-nickelback/obj/Debug/netcoreapp1.1/kill-nickelback.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/kill-nickelback/obj/Debug/netcoreapp1.1/kill-nickelback.pdb
