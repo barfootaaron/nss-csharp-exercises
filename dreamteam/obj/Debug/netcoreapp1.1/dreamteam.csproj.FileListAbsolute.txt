@@ -1,0 +1,8 @@
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/dreamteam/bin/Debug/netcoreapp1.1/dreamteam.deps.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/dreamteam/bin/Debug/netcoreapp1.1/dreamteam.runtimeconfig.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/dreamteam/bin/Debug/netcoreapp1.1/dreamteam.runtimeconfig.dev.json
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/dreamteam/bin/Debug/netcoreapp1.1/dreamteam.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/dreamteam/bin/Debug/netcoreapp1.1/dreamteam.pdb
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/dreamteam/obj/Debug/netcoreapp1.1/dreamteam.AssemblyInfo.cs
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/dreamteam/obj/Debug/netcoreapp1.1/dreamteam.dll
+/Users/aaronbarfoot/workspace/csharp-dotnet/nss/exercises/dreamteam/obj/Debug/netcoreapp1.1/dreamteam.pdb
